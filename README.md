@@ -1,5 +1,7 @@
 # Tokyo-bag
 
+![Photo](https://user-images.githubusercontent.com/28852446/44585425-47e0d100-a7e7-11e8-8bd4-b8f903f739ab.jpg)
+
 ## About
 This is a pattern for shoulder bag which can hold followings:
 
